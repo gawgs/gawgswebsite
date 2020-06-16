@@ -1,0 +1,23 @@
+html{
+  font-family: "Arial Black";
+  background-color: lightgrey;
+  color: white;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  word-spacing: 5em;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img{
+  vertical-align: middle;
+}
